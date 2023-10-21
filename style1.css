@@ -1,0 +1,22 @@
+body{
+    background-color: #414141;
+}
+.division{
+    /* display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center; */
+    /* background: red; */
+    text-align: center;
+    padding-left: 55px;
+    height: 50%;
+    font-size: 25px;
+    color: #ffffff;
+}
+.btn{
+    margin-top: 20% ;
+    margin-left: 49%;
+    font-size: 25px;
+    padding: 10px;
+    border-radius: 10px;
+}
